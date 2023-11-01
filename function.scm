@@ -1,0 +1,8 @@
+(define (sum n1 n2)
+  (define result (+ n1 n2))
+  (display "Sum ---> ")
+  (display result)
+)
+(display "\n\n\n")
+(sum 3 2)
+(display "\n\n\n")
